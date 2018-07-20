@@ -1,0 +1,9 @@
+open ftp://anonymous:anonymous%40example.com@192.168.1.14/
+
+cd /dev_hdd0/tmp
+put BO1Plugin.sprx
+
+exit
+
+# Execute the script using a command like:
+# "C:\Program Files (x86)\WinSCP\WinSCP.exe" /log="C:\writable\path\to\log\WinSCP.log" /ini=nul /script="C:\path\to\script\script.txt"
