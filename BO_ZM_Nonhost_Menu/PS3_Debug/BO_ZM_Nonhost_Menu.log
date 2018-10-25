@@ -1,0 +1,5 @@
+﻿  prx.cpp
+  ps3ppuld 430.1.5139.0 (rel,ps3,430.1,common,src @160906 ) C:\usr\local\cell\host-win32\sn\bin\ps3ppuld.exe
+Driver : warning : L5000: failed to execute the 64-bit linker (path not found). Using the 32-bit linker instead.
+  BO_ZM_Nonhost_Menu.vcxproj -> C:\Users\Duke\source\repos\BO_ZM_Nonhost_Menu\PS3_Debug\BO_ZM_Nonhost_Menu.sprx
+  Moving Stub Library cellPrx_BO_ZM_Nonhost_Menu_stub.a -> C:\Users\Duke\source\repos\BO_ZM_Nonhost_Menu\PS3_Debug\

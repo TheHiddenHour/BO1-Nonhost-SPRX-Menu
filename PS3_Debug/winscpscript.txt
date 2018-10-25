@@ -1,6 +1,8 @@
-open ftp://anonymous:anonymous%40example.com@192.168.1.14/
+open ftp://anonymous:anonymous%40example.com@192.168.1.13/
 
+lcd C:\Users\Duke\source\repos\BO_ZM_Nonhost_Menu\PS3_Debug
 cd /dev_hdd0/tmp
+
 put BO1Plugin.sprx
 
 exit
